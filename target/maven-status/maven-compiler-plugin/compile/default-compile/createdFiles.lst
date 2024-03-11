@@ -1,0 +1,6 @@
+client\MultithreadedClient.class
+client\APIClient.class
+client\MultithreadedClient$EventGenerationTask.class
+client\SkierLiftRideEventGenerator$SkierLiftRideEvent.class
+client\MultithreadedClient$APIClientTask.class
+client\SkierLiftRideEventGenerator.class
